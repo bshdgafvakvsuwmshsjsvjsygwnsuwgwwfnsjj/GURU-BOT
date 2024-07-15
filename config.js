@@ -14,9 +14,9 @@ global.owner = [
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['917605902011','32460248586'] 
-global.prems = ['917605902011', '32460248586', '919398758484']
-global.allowed = ['917605902011', '32460248586', '19152999993']
+global.mods = ['94715141596','94715141596'] 
+global.prems = ['94715141596', '94715141596', '94715141596']
+global.allowed = ['94715141596', '94715141596', '94715141596']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -51,7 +51,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.botname = 'Nethmina'
-global.premium = 'FALSE'
+global.premium = 'true'
 global.packname = 'Nethmina' 
 global.author = '@AsliNethmina' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
